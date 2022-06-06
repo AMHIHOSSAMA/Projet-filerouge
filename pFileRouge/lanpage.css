@@ -1,0 +1,15 @@
+#logo{
+    width: 100px;
+    margin-bottom: 10px;
+}
+#navbar{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#paragraph{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+}
